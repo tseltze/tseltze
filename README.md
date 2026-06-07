@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZzNWQ2N3p6Z20zczdpZTR4YnloNHQyZXk1eXd0eWg2eDM3ODRkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/487L0pNZKONFN01oHO/giphy.gif" width="230">
 
-<p><em>Software Engineering Student at <a href="https://www.wgu.edu/">Western Governors University</a>🎓</p>
+<p><em>Software Engineering Graduate from <a href="https://www.wgu.edu/">Western Governors University</a>🎓</p>
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/terina-seltzer/)  °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
