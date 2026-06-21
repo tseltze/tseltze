@@ -83,12 +83,19 @@ I'm a software engineer who enjoys building full-stack applications and explorin
 
 ---
 
-### GitHub Stats
+### GitHub Metrics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tseltze&show_icons=true&theme=tokyonight" alt="Terina's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseltze&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tseltze&show_icons=true&theme=tokyonight&hide_border=true" alt="Terina's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseltze&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tseltze&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tseltze&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
