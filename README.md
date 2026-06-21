@@ -4,7 +4,7 @@
 
 <p><em>Software Engineering Graduate from <a href="https://www.wgu.edu/">Western Governors University</a> 🎓</em></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terina-seltzer/)  °❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terina-seltzer/) 
 
 ---
 
