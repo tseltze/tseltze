@@ -19,7 +19,8 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Task Manager](https://github.com/tseltze/Simple_Tasks) | A full-stack task management application | Java, Spring, Angular |
+| [Simple Tasks](https://github.com/tseltze/Simple_Tasks) | A full-stack task management application | Java, Gradle |
+| [Shepherd Adoption](https://github.com/tseltze/Shepherd) | A full-stack adoption app for animal shelters | Kotlin |
 
 ---
 
