@@ -19,7 +19,7 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Task Manager](https://github.com/tseltze/TaskManager) | A full-stack task management application | Java, Android Studio |
+| [Task Manager](https://github.com/tseltze/TaskManager) | A full-stack task management application | Java, Spring, Angular |
 
 ---
 
