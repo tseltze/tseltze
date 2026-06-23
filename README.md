@@ -19,6 +19,7 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [GitHub Webpage](https://tseltze.github.io/) | My webpage | HTML, CSS |
 | [Simple Tasks](https://github.com/tseltze/Simple_Tasks) | A full-stack task management application | Java, Gradle |
 | [Shepherd Adoption](https://github.com/tseltze/Shepherd) | A full-stack adoption app for animal shelters | Kotlin |
 | [Round Button Calculator](https://github.com/tseltze/Round-Button-Calculator) | Round Button Calculator | Java |
