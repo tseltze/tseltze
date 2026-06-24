@@ -24,6 +24,7 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 | [Shepherd Adoption](https://github.com/tseltze/Shepherd) | A full-stack adoption app for animal shelters | Kotlin |
 | [Round Button Calculator](https://github.com/tseltze/Round-Button-Calculator) | Round Button Calculator | Java |
 | [Mastermind Text Game](https://github.com/tseltze/Mastermind_Game) | Mastermind Game | Java |
+| [Expense_Manager](https://github.com/tseltze/Expense_Manager) | A React Native Expense App | Kotlin, Java |
 
 ---
 
