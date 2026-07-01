@@ -130,5 +130,6 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tseltze&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+<figure><embed src="https://wakatime.com/share/@5853bea3-0d8d-41e4-9466-10d612315cbe/127a481e-e9c2-4dc4-873b-2ff22eb0c9ce.svg"></embed></figure>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
