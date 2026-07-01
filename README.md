@@ -119,8 +119,8 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=tseltze&show_icons=true&theme=tokyonight&hide_border=true" alt="Terina's GitHub Stats" height="165" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseltze&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseltze&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tseltze&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
