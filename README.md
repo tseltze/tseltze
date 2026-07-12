@@ -20,6 +20,7 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 | Project | Description | Tech |
 |---------|-------------|------|
 | [GitHub Webpage](https://tseltze.github.io/) | My webpage | HTML, CSS |
+| [6 Quadrant Task Organizer](https://github.com/tseltze/Task_Manager) | Built with React, TypeScript, Vite, React Router, an Express API, and MySQL.
 | [Population World Map](https://github.com/tseltze/Population_World_Map) | An interactive app displaying a clickable SVG world map | JavaScript, Angular |
 | [Inventory Mgmt System for Rocking Horse Parts](https://github.com/tseltze/Rocking-Horse-Inventory) | Inventory Applicaton |Java, Spring, Maven |
 | [Website for State of West Virginia](https://github.com/tseltze/West-Virginia-Web) | Website for state information | HTML, CSS, JavaScript |
