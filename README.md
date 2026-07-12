@@ -34,11 +34,12 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 |---------|-------------|------|
 | [GitHub Webpage](https://tseltze.github.io/) | My webpage | HTML, CSS |
 | [6 Quadrant Task Organizer](https://github.com/tseltze/Task_Manager) | Multi-user 6 quadrant task matrix | React, TypeScript, Vite, Express API, MySQL
+| [Shepherd Adoption](https://github.com/tseltze/Shepherd) | A full-stack adoption app for animal shelters | Kotlin |
 | [Population World Map](https://github.com/tseltze/Population_World_Map) | An interactive app displaying a clickable SVG world map | JavaScript, Angular |
 | [Inventory Mgmt System for Rocking Horse Parts](https://github.com/tseltze/Rocking-Horse-Inventory) | Inventory Applicaton |Java, Spring, Maven |
 | [Website for State of West Virginia](https://github.com/tseltze/West-Virginia-Web) | Website for state information | HTML, CSS, JavaScript |
+| [Coding Creations Website](https://github.com/tseltze/Coding-Creations) | Website for coding worksheets | Django, HTML, CSS |
 | [Simple Tasks](https://github.com/tseltze/Simple_Tasks) | A full-stack task management application | Java, Gradle |
-| [Shepherd Adoption](https://github.com/tseltze/Shepherd) | A full-stack adoption app for animal shelters | Kotlin |
 | [Round Button Calculator](https://github.com/tseltze/Round-Button-Calculator) | Round Button Calculator | Java |
 | [Mastermind Text Game](https://github.com/tseltze/Mastermind_Game) | Mastermind Game | Java |
 | [Expense_Manager](https://github.com/tseltze/Expense_Manager) | A React Native Expense App | Kotlin, Java |
