@@ -4,7 +4,10 @@
 
 <p><em>Software Engineering Graduate from <a href="https://www.wgu.edu/">Western Governors University</a> 🎓</em></p>
 
+<a href="https://github.com/tseltze"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6F42C1&vCenter=true&width=440&lines=Full+Stack+Developer;Always+Learning;Open+Source+Enthusiast;Passionate+Developer;Problem+Solver" alt="Typing SVG" /></a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terina-seltzer/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:terina.seltzer@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tseltze)
 
 ---
@@ -12,6 +15,15 @@
 ### About Me
 
 I'm a full-stack software engineer with a passion for building clean, user-focused web applications. I specialize in Java/Spring backends and Angular frontends, and I'm currently deepening my expertise in AWS cloud services and TypeScript.
+
+---
+
+### What I'm About
+
+![Innovation](https://img.shields.io/badge/💡-Innovation-6F42C1?style=for-the-badge)&nbsp;
+![Problem Solving](https://img.shields.io/badge/🧩-Problem_Solving-0D7377?style=for-the-badge)&nbsp;
+![Continuous Learning](https://img.shields.io/badge/📚-Continuous_Learning-E67E22?style=for-the-badge)&nbsp;
+![Collaboration](https://img.shields.io/badge/🤝-Collaboration-2E86C1?style=for-the-badge)
 
 ---
 
@@ -61,6 +73,7 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 #### Backend & Frameworks
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)&nbsp;
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -77,7 +90,7 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 
 #### Cloud & DevOps
 
-[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/tseltze)&nbsp;
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://github.com/tseltze)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -105,7 +118,7 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 #### Development Environments
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -134,3 +147,9 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@5853bea3-0d8d-41e4-9466-10d612315cbe/d91f050a-3bd5-41c3-864a-60ca4311dbe5.png" /></a>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tseltze&style=for-the-badge&color=6F42C1&label=Profile+Views" alt="Profile Views" />
+</p>
