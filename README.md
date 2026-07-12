@@ -23,10 +23,9 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 ### What I'm About
 
 ![Innovation](https://img.shields.io/badge/💡-Innovation-6F42C1?style=for-the-badge)&nbsp;
-![Problem Solving](https://img.shields.io/badge/🧩-Problem_Solving-0D7377?style=for-the-badge)&nbsp;
 ![Continuous Learning](https://img.shields.io/badge/📚-Continuous_Learning-E67E22?style=for-the-badge)&nbsp;
 ![Collaboration](https://img.shields.io/badge/🤝-Collaboration-2E86C1?style=for-the-badge)
-
+![Problem Solving](https://img.shields.io/badge/🧩-Problem_Solving-0D7377?style=for-the-badge)&nbsp;
 ---
 
 ### Featured Projects
@@ -52,8 +51,8 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
 [![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://github.com/tseltze)&nbsp;
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/tseltze)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/tseltze)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
