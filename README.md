@@ -22,10 +22,10 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 const terina: Developer = {
   location: "West Virginia, USA",
   role: "Full Stack Developer", "Software Engineer", 
-  currentlyBuilding: ["Task Matrix", "LLM-powered integrations"],
+  currentlyBuilding: ["Blockchain Medical Records Mgmt", "Task Matrix"],
   alsoInto: ["animals", "volunteering"],
   philosophy: "Clean code, effectively organized",
-  debuggingStyle: "console.log() — unashamed, undefeated",
+  debuggingStyle: "console.assert() — unashamed, undefeated",
 };
 ```
 ---
