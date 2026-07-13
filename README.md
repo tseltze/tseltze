@@ -18,6 +18,16 @@
 
 I'm a full-stack software engineer with a passion for building clean, user-focused web applications. I specialize in Java/Spring backends and Angular frontends, and I'm currently deepening my expertise in AWS cloud services and TypeScript.
 
+```typescript
+const terina: Developer = {
+  location: "West Virginia, USA",
+  role: "Full Stack Developer", "Software Engineer", 
+  currentlyBuilding: ["Task Matrix", "LLM-powered integrations"],
+  alsoInto: ["animals", "volunteering"],
+  philosophy: "Clean code, effectively organized",
+  debuggingStyle: "console.log() — unashamed, undefeated",
+};
+```
 ---
 
 ### What I'm About
