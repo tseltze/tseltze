@@ -23,11 +23,12 @@ I'm a full-stack software engineer with a passion for building clean, user-focus
 ```typescript
 const terina: Developer = {
   location: "West Virginia, USA",
-  role: "Full Stack Developer", "Software Engineer", 
-  currentlyBuilding: ["Blockchain Medical Records Mgmt", "Task Matrix"],
-  alsoInto: ["animals", "volunteering"],
+  role: ["Full Stack Developer", "Software Engineer", "Constant Learner"],
+  languages: ["Java", "JavaScript", "TypeScript", "Python", "Kotlin", "SQL", "HTML", "CSS"],
+  currentlyBuilding: ["Blockchain Medical Records Mgmt", "TypeScript 6 Quadrant Task Matrix"],
+  alsoInto: ["family", "animals", "volunteering"],
   philosophy: "Clean code, effectively organized",
-  debuggingStyle: "console.assert() — unashamed, undefeated",
+  debuggingStyle: "console.assert()"
 };
 ```
 ---
